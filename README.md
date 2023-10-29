@@ -1,1 +1,2 @@
-# LeetCode
+- This is where my LeetCode problem solutions are held.
+- So far there are 2 solutions from a counter and array length problem.
